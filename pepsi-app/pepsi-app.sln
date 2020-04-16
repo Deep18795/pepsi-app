@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "pepsi-app", "pepsi-app\pepsi-app.vbproj", "{D58DD295-FF66-4998-B0E5-73C03ADB3742}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D58DD295-FF66-4998-B0E5-73C03ADB3742}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D58DD295-FF66-4998-B0E5-73C03ADB3742}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D58DD295-FF66-4998-B0E5-73C03ADB3742}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D58DD295-FF66-4998-B0E5-73C03ADB3742}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CAB937D-8607-4134-92A6-95EB3AA181A1}
+	EndGlobalSection
+EndGlobal
