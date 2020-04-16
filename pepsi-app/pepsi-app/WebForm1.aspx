@@ -7,6 +7,20 @@
     <link href="mycss.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
+	<!-- header part -->
+		<div class="header">
+			<div class="logo">
+				<img src="images/logo.png" width="200px"/>
+			</div>
+			<div class="menu">
+				<ul>
+					<li>Home</li>
+					<li>Home</li>
+					<li>Home</li>
+					<li>Home</li>
+					<li>Home</li>
+				</ul>
+			</div>
     <form id="form1" runat="server">
         <div>
         </div>
